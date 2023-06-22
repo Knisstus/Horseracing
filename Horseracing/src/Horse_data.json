@@ -1,0 +1,7 @@
+[{"name": "White Rocket", "speed": 300, "stamina": 0.25, "endurance": 2},
+{"name": "Joe", "speed": 200, "stamina": 0.5, "endurance": 2},
+{"name": "Ghost Rider", "speed": 300, "stamina": 0.5, "endurance": 1},
+{"name": "Wanderer", "speed": 100, "stamina": 0.75, "endurance": 2},
+{"name": "Bullet Train", "speed": 200, "stamina": 0.75, "endurance": 1},
+{"name": "Fighter", "speed": 100, "stamina": 0.5, "endurance": 3},
+{"name": "Piercer", "speed": 200, "stamina": 0.25, "endurance": 3}]

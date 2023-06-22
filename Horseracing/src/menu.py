@@ -1,0 +1,13 @@
+def print_menu():  # This is a simple text based menu screen using ascii art
+    print(" _    _                                    _")
+    print("| |  | |                                  (_)  ")
+    print("| |__| | ___  _ __ ___  ___ _ __ __ _  ___ _ _ __   __ _")
+    print("|  __  |/ _ \| '__/ __|/ _ \ '__/ _` |/ __| | '_ \ / _` |")
+    print("| |  | | (_) | |  \__ \  __/ | | (_| | (__| | | | | (_| |")
+    print("|_|  |_|\___/|_|  |___/\___|_|  \__,_|\___|_|_| |_|\__, |")
+    print("                                                    __/ |")
+    print("                                                   |___/")
+    print("_________________________________________________________")
+    print("\n [S]tart Race")
+    print("\n [C]heck stats")
+    print("\n [E]nd")

@@ -1,0 +1,5 @@
+[{"name": "Paris", "segments": 25, "lanes": 5, "quality": 50},
+{"name": "Berlin", "segments": 35, "lanes": 3, "quality": 25},
+{"name": "London", "segments": 15, "lanes": 6, "quality": 0},
+{"name": "Rome", "segments": 15, "lanes": 7, "quality": 75},
+{"name": "Madrid", "segments": 35, "lanes": 3, "quality": 0}]
