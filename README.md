@@ -1,2 +1,3 @@
 # Horseracing
-simple horse racing game
+
+Horseracing is a simple Horseracing minigame to start simply run Horseracing.py in a Terminal or Development enviroment
